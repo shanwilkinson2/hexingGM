@@ -15,5 +15,6 @@ Attached hexmap boundary is the output of this
 *displaying PHE fingertips data on a hexmap.R*
 R code for displaying indicators from Public Health England (PHE)'s fingertips API as a colour graduated hexmap/ geographical map (using the boundaries in the attached files) 
 It is currently set up for the fuel poverty indicator from the Public Health Outcomes Framework (PHOF). 
-Mortality indicators are split by male/ female - the code won't currently deal with this.
+Mortality indicators are split by male/ female - the code won't currently deal with this. 
+Indicators are low = good, or high = good, or neither = good, the code doesn't currently take this into account. 
 Other indicator sets are available in the PHE API, but not all are available at local authority level 
