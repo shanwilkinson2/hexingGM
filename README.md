@@ -2,10 +2,11 @@
 displaying GM data on a hexmap
 
 Attached files:
-  GM_geo_boundaries.csv - geographical boundaries for Greater Manchester local authorities
-  GM_hex_boundaries.csv - boundaries for a hexed version of Greater Manchester local authorities
-  GM Geo map FP.jpeg - geographical map of GM fuel poverty (output of the R code)
-  GM hex map FP.jpeg - hex map of GM fuel poverty (output of the R code)
+
+  *GM_geo_boundaries.csv* - geographical boundaries for Greater Manchester local authorities
+  *GM_hex_boundaries.csv* - boundaries for a hexed version of Greater Manchester local authorities
+  *GM Geo map FP.jpeg* - geographical map of GM fuel poverty (output of the R code)
+  *GM hex map FP.jpeg* - hex map of GM fuel poverty (output of the R code)
   
 *creating a hexmap.R*
 R code for creating a hexed version of Greater Manchester local authorities, based on geographical boundary data from https://martinjc.github.io/UK-GeoJSON/ & based on the method here: https://github.com/jbaileyh/geogrid
