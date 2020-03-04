@@ -1,5 +1,5 @@
 # hexingGM
-displaying GM data on a hexmap
+Displaying GM data on a hexmap
 
 Attached files:
 
